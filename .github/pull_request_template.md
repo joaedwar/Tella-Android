@@ -6,9 +6,9 @@ Pull requests should be opened against the `develop` branch. For more informatio
 
 
 **Select the type of change(s) made in this pull request:**
-- [] Bug fix *(non-breaking change which fixes an issue)*
-- [] New feature *(non-breaking change which adds functionality)*
-- [] Documentation *(change or fix to documentation)*
+- [ ] Bug fix *(non-breaking change which fixes an issue)*
+- [ ] New feature *(non-breaking change which adds functionality)*
+- [ ] Documentation *(change or fix to documentation)*
 
 ---------------------------------------------------------------------------------------------------------
 
